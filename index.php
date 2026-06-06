@@ -71,7 +71,7 @@ switch ($nmx) {
         break;
     
     case 'klptdh':
-        echo "KLPTeduh_OK"; 
+        echo "KLPTeduh"; 
         break;
 
     default:
